@@ -1,6 +1,6 @@
 # Hi, I'm Geneva 👋
 
-### AI Automation & Workflow Automation Developer
+### Workflow Automation Developer | GoHighLevel Automation  
 
 I am a self-taught Workflow Automation Developer with a background in Computer Engineering, focused on building practical AI-powered automation systems, workflow integrations, and business process solutions.
 
